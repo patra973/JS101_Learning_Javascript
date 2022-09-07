@@ -1,0 +1,6 @@
+//If the number is divisible by 3, print a "multiple of 3".
+let a=12;
+
+if(a/3){
+  console.log("multiple of 3");
+}
